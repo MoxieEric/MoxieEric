@@ -8,13 +8,22 @@ ___
 
 ### Favorite Stack(s)
 
-Front-end
+**Front-end**
 
-**TypeScript + React + Next.js + Chakra UI + Zustand + GraphQL**
+https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white 
+
+https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black
+
+https://img.shields.io/badge/Chakra%20UI-319795.svg?style=for-the-badge&logo=Chakra-UI&logoColor=white
+
+https://img.shields.io/badge/Redux-764ABC.svg?style=for-the-badge&logo=Redux&logoColor=white
+
+https://img.shields.io/badge/GraphQL-E10098.svg?style=for-the-badge&logo=GraphQL&logoColor=white
+
 
 **TypeScript + React Native + GlueStack UI + Redux Toolkit**
 
-Back-end
+**Back-end**
 
 **Node + Express + Postgres + GraphQL + Hasura**
 
@@ -40,10 +49,10 @@ Most of my projects and repositories are private. If you are looking for code sa
 
 - [x] Google UX Design Certificate
 - [x] Meta Front-end Developer Certificate
-- [-] Meta Back-end Developer Certificate
+- [ ] Meta Back-end Developer Certificate
 - [ ] IBM AI Engineer Certificate
-- [-] Bachelor's of I.T. at Illinois Tech
-- [-] Don't Fuhgedaboudit, a highly irreverent AI chatbot that is smarter than it sounds... I swear.
+- [ ] Bachelor's of I.T. at Illinois Tech
+- [ ] Don't Fuhgedaboudit, a highly irreverent AI chatbot that is smarter than it sounds... I swear.
 - [ ] Bar-K Bus, a ride-share app for mountain communities
 - [ ] AstroSurvivor, space survival game built on Unity Web (story by 3rd graders)
 - [ ] Training for an Ultramarathon (follow me on [Strava](https://www.strava.com/athletes/554186))
