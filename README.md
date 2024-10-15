@@ -10,16 +10,7 @@ ___
 
 **Front-end**
 
-https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white 
-
-https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black
-
-https://img.shields.io/badge/Chakra%20UI-319795.svg?style=for-the-badge&logo=Chakra-UI&logoColor=white
-
-https://img.shields.io/badge/Redux-764ABC.svg?style=for-the-badge&logo=Redux&logoColor=white
-
-https://img.shields.io/badge/GraphQL-E10098.svg?style=for-the-badge&logo=GraphQL&logoColor=white
-
+**TypeScript + React + Next.js + Chakra UI + Zustand + GraphQL**
 
 **TypeScript + React Native + GlueStack UI + Redux Toolkit**
 
