@@ -1,12 +1,15 @@
 ## Hi there, I'm Eric 👋
 
-> I'm a creative full-stack engineer with a passion for great UX, learning and building products that make a difference.
+```
+I'm a creative full-stack engineer with a passion for great UX, learning
+and building products that make a difference.
+```
 
 If you want to lean more about me check out [ericnowels.me](https://ericnowels.me) or my [LinkedIn profile](https://www.linkedin.com/in/ericnowels/)
 
 ___
 
-### Favorite Stack(s)
+### Favorite Stacks
 
 **Front-end**
 
@@ -17,7 +20,7 @@ ___
 [![Zustand](https://img.shields.io/badge/Redux-764ABC.svg?style=for-the-badge&logo=Redux&logoColor=white)](https://github.com/pmndrs/zustand) 
 [![GraphQL](https://img.shields.io/badge/GraphQL-E10098.svg?style=for-the-badge&logo=GraphQL&logoColor=white)](https://www.graphql.org/) 
 
- **TypeScript + React Native + GlueStack UI + Redux Toolkit**
+ Also: TypeScript + React Native + GlueStack UI + Zustand
 
 
 **Back-end**
@@ -28,22 +31,22 @@ ___
 ![code](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6.svg?style=for-the-badge&logo=Amazon-DynamoDB&logoColor=white)
 ![code](https://img.shields.io/badge/Flask-000000.svg?style=for-the-badge&logo=Flask&logoColor=white)
 
-**Node + Express + Postgres + GraphQL + Hasura**
+Also: Node + Express + Postgres + GraphQL + Hasura
 
 
 ### Projects
 
-Most of my projects and repositories are private. If you are looking for code samples please contact me. Otherwise here are links to projects I've worked on:
+Most of my projects and repositories are private. If you are looking for code samples please contact me. Otherwise here are links to some recent projects:
 
-- app.brewlogix.com
-- pintlabs.com
-- brewerydb.com | [BreweryDB App](https://apps.apple.com/us/app/brewerydb/id6449491682)
-- santafebrewing.com
-- noodles.com
-- sierranevada.com
-- diestelturkey.com
-- 10barrel.com
-- bendaletrail.com
+- [BrewLogix Platform](https://app.brewlogix.com)
+- [BreweryDB](https://apps.apple.com/us/app/brewerydb/id6449491682)
+- [PintLabs](https://pintlabs.com)
+- [SantaFeBrewing.com](https://santafebrewing.com)
+- [Noodles.com](https://noodles.com)
+- [SierraNevada Brewing](https://sierranevada.com)
+- [Diestel Turkey](https://diestelturkey.com)
+- [10 Barrel Brewing](https://10barrel.com)
+- [Bend Ale Trail](https://bendaletrail.com)
 
 
 ### What I'm Working On for Fun
