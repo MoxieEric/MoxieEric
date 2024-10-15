@@ -10,26 +10,25 @@ ___
 
 **Front-end**
 
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)](https://www.typescriptlang.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)](https://www.typescriptlang.org/) 
+[![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)]([https://www.typescriptlang.org/](https://react.dev/)) 
+[![Next.js](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/) 
+[![Chakra UI](https://img.shields.io/badge/Chakra%20UI-319795.svg?style=for-the-badge&logo=Chakra-UI&logoColor=white)](https://v2.chakra-ui.com/) 
+[![Zustand](https://img.shields.io/badge/Redux-764ABC.svg?style=for-the-badge&logo=Redux&logoColor=white)](https://github.com/pmndrs/zustand) 
+[![GraphQL](https://img.shields.io/badge/GraphQL-E10098.svg?style=for-the-badge&logo=GraphQL&logoColor=white)](https://www.graphql.org/) 
 
- 
+ **TypeScript + React Native + GlueStack UI + Redux Toolkit**
 
-https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black
-
-https://img.shields.io/badge/Chakra%20UI-319795.svg?style=for-the-badge&logo=Chakra-UI&logoColor=white
-
-https://img.shields.io/badge/Redux-764ABC.svg?style=for-the-badge&logo=Redux&logoColor=white
-
-https://img.shields.io/badge/GraphQL-E10098.svg?style=for-the-badge&logo=GraphQL&logoColor=white
-**TypeScript + React + Next.js + Chakra UI + Zustand + GraphQL**
-
-**TypeScript + React Native + GlueStack UI + Redux Toolkit**
 
 **Back-end**
 
-**Node + Express + Postgres + GraphQL + Hasura**
+![code](https://img.shields.io/badge/Node.js-5FA04E.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![code](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
+![code](https://img.shields.io/badge/AWS%20Amplify-FF9900.svg?style=for-the-badge&logo=AWS-Amplify&logoColor=white)
+![code](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6.svg?style=for-the-badge&logo=Amazon-DynamoDB&logoColor=white)
+![code](https://img.shields.io/badge/Flask-000000.svg?style=for-the-badge&logo=Flask&logoColor=white)
 
-**Python + Flask + DynamoDB + Amplify**
+**Node + Express + Postgres + GraphQL + Hasura**
 
 
 ### Projects
