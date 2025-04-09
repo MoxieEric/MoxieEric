@@ -53,10 +53,10 @@ Most of my projects and repositories are private. If you are looking for code sa
 
 - [x] Google UX Design Certificate
 - [x] Meta Front-end Developer Certificate
-- [ ] Meta Back-end Developer Certificate
+- [x] Meta Back-end Developer Certificate
 - [ ] IBM AI Engineer Certificate
 - [ ] Bachelor's of I.T. at Illinois Tech
 - [ ] Don't Fuhgedaboudit, a highly irreverent AI chatbot that is smarter than it sounds... I swear.
-- [ ] Bar-K Bus, a ride-share app for mountain communities
+- [ ] Bar-K Bus, a ride-share app for remote mountain communities
 - [ ] AstroSurvivor, space survival game built on Unity Web (story by 3rd graders)
 - [ ] Training for an Ultramarathon (follow me on [Strava](https://www.strava.com/athletes/554186))
